@@ -1,5 +1,5 @@
 {
-  "Mkt3L10n.AccountAnalyzerChart.Trend": "||_Trend checking checking checking_||",
+  "Mkt3L10n.AccountAnalyzerChart.Trend": "||_Trend checking checking checking_|| checking checking checking",
   "Mkt3L10n.AccountAnalyzerChart.Opportunity": "||_Opportunity_||",
   "Mkt3L10n.AccountAnalyzerChart.Interactions": "||_Interactions_||",
   "Mkt3L10n.AccountAnalyzerChart.Date_Interaction": "||_<b>{0} - ({1} interaction{2})</b> _||",
