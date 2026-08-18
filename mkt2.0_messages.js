@@ -1,5 +1,5 @@
 {
-  "Mkt3L10n.AccountAnalyzerChart.Opportunity": "||_Opportunity_|| checking checking checking",
+  "Mkt3L10n.AccountAnalyzerChart.Opportunity": "||_Opportunity_|| checking checking checking checking checking",
   "Mkt3L10n.AccountAnalyzerChart.Interactions": "||_Interactions_||",
   "Mkt3L10n.AccountAnalyzerChart.Week_Of_Date_Interaction": "||_<b>Week of {0} - ({1} interaction{2})</b> _||",
   "Mkt3L10n.AccountAnalyzerChart.Interactions_Cumulative_": "||_Interactions (Cumulative)_||",
