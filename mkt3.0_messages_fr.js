@@ -389,8 +389,8 @@ Mkt3L10n.formLocale = {
   th: "Thaï",
   ja_JP: "Japon",
   fr: "Français",
-  ms_BN: "Brunei",
   zh_MO: "Macao",
+  ms_BN: "Brunei",
   en_AU: "Australie",
   es_MX: "Mexique",
   hi_IN: "India",
@@ -1020,9 +1020,9 @@ Mkt3L10n.launchpointServiceIntegrationSettingsForm = {
   Level_3_Web_Meeting: "Réunion en ligne de niveau 3",
   Create: "Créer",
   API_Key: "Code API",
+  Saving_calendar_partner: "Enregistrer calendrier partenaire...",
   Status: "Statut",
   Paging_DisplayMsg: "{0}-{1} sur {2}",
-  Saving_calendar_partner: "Enregistrer calendrier partenaire...",
   Access_code: "Code d'accès",
   Display_name: "Nom d'affichage",
   Edit_calendar_partner: "Modifier calendrier partenaire",
@@ -1043,11 +1043,11 @@ Mkt3L10n.launchpointServiceIntegrationSettingsForm = {
   Authorize_Marketo_HootSuite: "Autoriser Marketo",
   Custom: "Personnalisé",
   Calendar_integration_login: "Identifiant d'intégration au calendrier",
+  Development: "Développement",
   webex_webinar_account_set: "Compte Webex Webinars configuré",
   Map_Default_Fields_Tracking_Param: "nom complet, état, pays, e-mail, ville, date de naissance, prénom, nom de famille, adresse postale, fonction, numéro de téléphone, nom de l’entreprise, code postal</br><b>* - Représente la question personnalisée des publicités à formulaire Facebook.</b></br><b>** - Représente le paramètre de suivi Facebook.</b>",
   Login_to_zoom: "Connexion à Zoom",
   Participant_password: "Mot de passe participant",
-  Development: "Développement",
   Login_to_gotowebinar: "Connexion à GoToWebinar",
   Must_login_to_gotowebinar: "Vous devez vous connecter à GoToWebinar",
   Settings: "Paramètres",
@@ -1395,9 +1395,9 @@ Mkt3L10n.mktocustomobjectObjectDetailsPanel = {
   FloatType: "float",
   Name: "Nom",
   LastUpdatedTime: "Mis à jour",
+  BooleanType: "boolean",
   Published: "Publié",
   ToFieldName: "Nom de champ lié",
-  BooleanType: "boolean",
   ShowInGrid: "Afficher dans le détail de lead",
   DatetimeType: "datetime",
   StringType: "string",
@@ -1506,8 +1506,8 @@ Mkt3L10n.mktocustomobject = {
   Error_Field_Exist: "Il existe déjà un champ du même nom ; choisissez un autre nom.",
   Need_Link_Field_Standard_Object: "Nécessite des liens de champ de lien vers les objets standard (Lead, Entreprise) pour l’approbation.",
   Cannot_Get_Limit: "Ne peut pas récupérer les limites d’objets et de champs",
-  Cannot_Delete: "Impossible de supprimer",
   Discard_Draft: "Abandonner le brouillon",
+  Cannot_Delete: "Impossible de supprimer",
   Are_you_sure_you_want_to_delete_strong: "Attendez ! Voulez-vous vraiment effectuer cette action ?<br><br><b>Nom de l’objet : {0}</b><br><br>Lorsque vous supprimez cet objet, ce sera comme si ces données n’avaient jamais existé.<br><br>Si vous voulez vraiment effectuer cette action, veuillez confirmer en saisissant <b>Je comprends</b> dans la zone de texte ci-dessous.<br><br><div class='mktMessageIndent mktRequired'><b>Confirmer :</b><span id='mktTypeTextWrap'></span><br><span id='mktAgreeCbWrap'></span></div>",
   Error_Link_Limit_Exceeds: "Limites du champ de liaison dépassées.",
   Delete_Object: "Supprimer l’objet",
@@ -2525,8 +2525,8 @@ Mkt3L10n.LanguageMenu = {
 };
 Mkt3L10n.mktocustomobjectPreview = {
   DatetimeType: "datetime",
-  Fields: "Champs",
   TextType: "Texte",
+  Fields: "Champs",
   DedupeFields: "Éliminer les champs dupliqués",
   IntegerType: "integer",
   Unpublished: "Nouveau",
@@ -3567,8 +3567,8 @@ Mkt3L10n.abmNamedAccountGrid = {
   State_Region: "État/région",
   Quick_Find_Not_Available: "La recherche rapide n’est pas disponible lorsque les comptes sont groupés par hiérarchie.",
   Pending: "<em>En attente</em>",
-  MSD: "MSD",
   Named_Account: "Compte nommé",
+  MSD: "MSD",
   Group: "Groupe",
   ANY_Acct_Profiling_Indicators: "N’IMPORTE QUEL indicateur de profilage de compte",
   Hierarchy_Truncated_Tooltip: "D’autres comptes enfants sont regroupés sous ce compte. Pour les afficher, décochez \\\"<b>Grouper par hiérarchie</b>\\\".",
@@ -5706,8 +5706,8 @@ Mkt3L10n.controllerSubscriptionFeatureForm = {
 };
 Mkt3L10n.trackCadenceForm = {
   Learn_More_Link: "<a href='{0}' target='_blank'>En savoir plus</a>",
-  Every: "chaque",
   Friday: "Vendredi",
+  Every: "chaque",
   Weekly: "Une fois par semaine",
   Recipient_time_zone_requires: "Le fuseau horaire du destinataire exige d’observer un délai minimum de 25 heures avant votre première diffusion.",
   Time: "Heure",
@@ -5995,6 +5995,32 @@ Mkt3L10n.setAdWordsConvForm = {
   Stage: "Étape",
   Save: "Sauvegarder"
 };
+Mkt3L10n.formLanguage = {
+  Malay: "Malais",
+  Danish: "danois",
+  Russian: "Russe",
+  Finnish: "finnois",
+  Spanish: "Espagnol",
+  Romanian: "Roumain",
+  French: "Français",
+  Czech: "Tchèque",
+  Hindi: "Hindi",
+  Polish: "polonais",
+  German: "allemand",
+  English: "Anglais (États-Unis)",
+  Italian: "italien",
+  Chinese_Simplified: "Chinois (simplifié)",
+  Portuguese_Brazil: "Portugais (Brésil)",
+  Chinese_Traditional: "Chinois (traditionnel)",
+  Thai: "Thaï",
+  English_UK: "Anglais (Royaume-Uni)",
+  Norwegian: "norvégien",
+  Dutch: "néerlandais",
+  Korean: "coréen",
+  Hebrew: "Hébreu",
+  Swedish: "suédois",
+  Japanese: "Japonais"
+};
 Mkt3L10n.LandingPageFormPicker = {
   Note_Only_text_my_tokens: "<b>Remarque :</b> seuls les jetons My textuels sont pris en charge par les URL des pages de suivi, et ils ne fonctionnent que dans les pages d’accueil Marketo.",
   Stay_on_this_Page: "Rester sur cette page"
@@ -6091,32 +6117,6 @@ Mkt3L10n.controllerSocialApp = {
   Please_wait: "Veillez patienter...",
   Social_App_Delete_Not_Allowed: "{0} est utilisé dans la page de destination et ne peut pas être supprimé",
   Total_Codes_Uploaded_Without_Available_First: ""
-};
-Mkt3L10n.formLanguage = {
-  Danish: "danois",
-  Malay: "Malais",
-  Russian: "Russe",
-  Finnish: "finnois",
-  Spanish: "Espagnol",
-  Romanian: "Roumain",
-  French: "Français",
-  Czech: "Tchèque",
-  Hindi: "Hindi",
-  Polish: "polonais",
-  German: "allemand",
-  English: "Anglais (États-Unis)",
-  Italian: "italien",
-  Chinese_Simplified: "Chinois (simplifié)",
-  Portuguese_Brazil: "Portugais (Brésil)",
-  Chinese_Traditional: "Chinois (traditionnel)",
-  Thai: "Thaï",
-  English_UK: "Anglais (Royaume-Uni)",
-  Norwegian: "norvégien",
-  Dutch: "néerlandais",
-  Korean: "coréen",
-  Hebrew: "Hébreu",
-  Swedish: "suédois",
-  Japanese: "Japonais"
 };
 Mkt3L10n.abmNamedAccountAddToAccountListForm = {
   Account_List: "Liste de compte",
@@ -6433,8 +6433,8 @@ Mkt3L10n.email2PredictiveContent = {
   Select_Predictive_Categories_And_Layout: "Sélectionner les catégories et la mise en page",
   Preview: "Aperçu:",
   Presentation: "Présentation",
-  Data_Sheet: "Fiche technique",
-  Article: "Article"
+  Article: "Article",
+  Data_Sheet: "Fiche technique"
 };
 Mkt3L10n.UpgradeTemplateModal = {
   Note_Count_Landing_Pages: "<em>Remarque :</em> Les <a href='{0}' target='_blank'>pages de destination {1}</a> utilisent actuellement ce modèle. De nouveaux brouillons seront créés une fois le modèle approuvé.",
@@ -7868,6 +7868,9 @@ Mkt3L10n.formIsAppendForm = {
   Disable: "Désactiver",
   Cancel: "Annuler"
 };
+Mkt3L10n.inAppMessageEditorImageOnlyLayout = {
+  No_Image_Selected: "Aucune image sélectionnée"
+};
 Mkt3L10n.socialAppDashboard = {
   Visits_number_sessions_Campaign: "<div style=\\\"font-weight: bold\\\">Visites :</div><p>Le nombre de fois où les utilisateurs se sont rendus sur votre site (sessions uniques initiées par vos visiteurs) sur une période donnée. Les utilisateurs qui quittent et reviennent sur la page dans les 30 minutes seront considérés comme appartenant à la session originale. Une pause de plus de 30 minutes ou une fermeture et un redémarrage de leur navigateur sera considéré comme une nouvelle session ou visite.</p><br/><div style=\\\"font-weight: bold\\\">Visites de campagne :</div><p>Le nombre de visites pour toutes les campagnes sur votre site. Les visites d'une page qui contient plusieurs occurrences de la même campagne comptent comme une seule visite de la campagne. Les visites de plusieurs pages contenant des occurrences de la même campagne comptent également comme une seule visite de la campagne.</p><br/><div style=\\\"font-weight: bold\\\">Interactions :</div><p>Le nombre de fois que les utilisateurs ont réalisé une action sociale, par exemple voter, noter, partager, poster un commentaire, s'inscrire à une offre, partager une vidéo, etc. </p><br/><div style=\\\"font-weight: bold\\\">Partages :</div><p>Le nombre de fois que les utilisateurs ont partagé un message via leur réseau social.</p><br/><div style=\\\"font-weight: bold\\\">Clics obtenus :</div><p>Le nombre de pages visitées générées par les liens partagés d'une campagne.</p><br/><div style=\\\"font-weight: bold\\\">Conversions :</div><p>Le nombre de fois que les utilisateurs ont réalisé une action concrète (acheter un produit par exemple), telle que définie par le script de conversion mis en place sur votre site. \\\"Inscriptions\\\" (ou utilisateurs qui, pour la première fois, interagissent après avoir suivi un lien les conduisant sur votre site) correspond à l'événement de conversion par défaut si aucun script de conversion n'est défini.</p><br/>",
   Social_Funnel: "Entonnoir social",
@@ -7917,9 +7920,6 @@ Mkt3L10n.smartCampaignAbortCampaignForm = {
   Abort: "Abandonner",
   Abort_Campaign: "Abandonner la campagne",
   Are_You_Sure_You_Want_To_Abort: "Êtes-vous sur de vouloir annuler {0} ? Toutes les actions en cours seront arrêtées"
-};
-Mkt3L10n.inAppMessageEditorImageOnlyLayout = {
-  No_Image_Selected: "Aucune image sélectionnée"
 };
 Mkt3L10n.abmAccountTeamGrid = {
   Email: "E-mail",
@@ -8238,6 +8238,11 @@ Mkt3L10n.controllermktocustomobjectVerifyPushForm = {
   Verification_Complete: "Vérification terminée",
   Verified: "Vérifié!"
 };
+Mkt3L10n.controllerSmsMessageEditor = {
+  Approving_SMS_Message: "Approbation d’un message SMS",
+  Please_Wait: "Veillez patienter...",
+  Reply_Stop_To_Cancel: "Répondez STOP pour annuler."
+};
 Mkt3L10n.abmColumnPicker = {
   Yes: "Oui",
   Multiple: "Multiple",
@@ -8248,11 +8253,6 @@ Mkt3L10n.templateContextMenu = {
   Save_to_Design_Studio: "Cloner vers le studio de conception",
   Download_HTML: "Télécharger HTML",
   Preview: "Aperçu"
-};
-Mkt3L10n.controllerSmsMessageEditor = {
-  Approving_SMS_Message: "Approbation d’un message SMS",
-  Please_Wait: "Veillez patienter...",
-  Reply_Stop_To_Cancel: "Répondez STOP pour annuler."
 };
 Mkt3L10n.programOperationalModeForm = {
   Analytics_Behavior: "Comportement d'analyse",
@@ -8698,6 +8698,10 @@ Mkt3L10n.newMembersAreaChart = {
   People: "Personne",
   Day: "Jour"
 };
+Mkt3L10n.programMembershipChart = {
+  Historical: "Historique",
+  Current: "Actuel"
+};
 Mkt3L10n.socialAppEditorReshareContentSettings = {
   Subject: "Objet",
   Default_Email_Share_Text: "Texte de l'e-mail partagé par défaut",
@@ -8706,10 +8710,6 @@ Mkt3L10n.socialAppEditorReshareContentSettings = {
 };
 Mkt3L10n.SourcePanel = {
   HTML_Source: "Code source HTML"
-};
-Mkt3L10n.programMembershipChart = {
-  Historical: "Historique",
-  Current: "Actuel"
 };
 Mkt3L10n.TagsContainer = {
   Add_Program_Tag: "Ajouter une étiquette de programme",
@@ -8756,15 +8756,15 @@ Mkt3L10n.inAppMessageEditorApprovalForm = {
   Back_To_Editor: "Retour à l'éditeur",
   Close_Without_Approving: "Fermer sans approuver"
 };
+Mkt3L10n.lpCustomHtmlForm = {
+  Custom_HTML_Editor: "Éditeur d'HTML personnalisé"
+};
 Mkt3L10n.colorPicker = {
   R: "R",
   Hex: "Hex",
   A: "A",
   B: "B",
   G: "G"
-};
-Mkt3L10n.lpCustomHtmlForm = {
-  Custom_HTML_Editor: "Éditeur d'HTML personnalisé"
 };
 Mkt3L10n.snippetPreviewer = {
   Edit_Draft: "Modifier le brouillon"
