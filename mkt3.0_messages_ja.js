@@ -1,3 +1,45 @@
+Mkt3L10n.abmDiscoverCRMGrid = {
+  Empty: "空",
+  Select_An_Industry: "業界を選択",
+  Select_A_Country: "国を選択",
+  Account_Owner: "アカウント所有者",
+  TIP_1_OR_2_OR_3: "1 または 2 または 3...",
+  Hierarchy_Truncated_Tooltip: "このアカウントにはさらに子アカウントがあります。それらのアカウントを表示するには、「<b>階層別のグループ</b>」のチェックを外してください.",
+  Not_True: "偽",
+  D: "D",
+  No_CRM_Accounts: "CRM 内に企業がありません",
+  Industry: "業界",
+  Employees: "従業員",
+  Select_An_Account_Owner: "アカウント所有者を選択",
+  CRM_ID: "CRM ID",
+  Select_An_Indicator: "指標を選択",
+  CRM_Account: "CRM 顧客企業",
+  Potential_People: "潜在顧客",
+  ALL_Acct_Profiling_Indicators: "すべてのアカウントプロファイル指標",
+  SIC_Code: "SIC コード",
+  Multiple: "複数",
+  B: "B",
+  Named_Account_Tooltip: "このアカウントはすでに重点顧客として作成されています。",
+  Pending: "<em>保留中</em>",
+  Account_Profiling_Rank: "アカウントプロファイルランク",
+  Ranks: "ランク",
+  Group_by_Hierarchy: "階層別のグループ",
+  City: "市町村",
+  True: "真",
+  Percentile: "[百分率]",
+  You_May_Only_Add_Up_To_10_Total_Account_Profiling_Indicators_: "「いずれかのアカウントプロファイル指標」と「すべてのアカウントプロファイル指標」の両フィルターの間には、合計 10 個までのアカウントプロファイル指標のみを追加できます。指標を削除してから追加してください.",
+  ANY_Acct_Profiling_Indicators: "いずれかのアカウントプロファイル指標",
+  State_Region: "都道府県/地域",
+  C: "C",
+  Country: "国",
+  Select_Is_Target: "ターゲットを選択",
+  People: "顧客",
+  Domain: "ドメイン",
+  Is_Target: "ターゲット",
+  TIP_1_AND_2_AND_3: "1 および 2 および 3...",
+  Revenue: "収益",
+  A: "A"
+};
 Mkt3L10n.FiscalCalendarForm = {
   October: "10 月",
   April: "4 月",
@@ -1361,8 +1403,8 @@ Mkt3L10n.CalendarEntryTypesPanel = {
 Mkt3L10n.mobilePushNotificationEditor = {
   Enabled: "有効化済み",
   Ios: "iOS",
-  Platforms: "プラットフォーム",
   Android: "Android",
+  Platforms: "プラットフォーム",
   Error_Support_Message_Contact: "フリーダイヤル（北米地域）：+1.877.270.MKTO (6586)<br>サポート直通（北米地域）：+1.650.376.2302<br>support@marketo.com",
   Error_App_Not_Configured: "アプリが構成されていません。",
   Disabled: "無効化済み",
@@ -2530,9 +2572,9 @@ Mkt3L10n.mktocustomobjectPreview = {
   DedupeFields: "デデュープ フィールド",
   IntegerType: "integer",
   Unpublished: "新規作成",
-  Hide: "非表示",
   Guid: "GUID",
   State: "状態",
+  Hide: "非表示",
   Show: "表示",
   Field: "フィールド",
   BooleanType: "boolean",
@@ -2821,7 +2863,6 @@ Mkt3L10n.MktCalendarIcons = {
   Tag: "タグ",
   Workplace: "職場",
   Music: "音楽",
-  Telephone2: "電話2",
   Megaphone: "拡声器",
   Briefcase: "書類かばん",
   Umbrella_Open: "開いた傘",
@@ -2846,6 +2887,7 @@ Mkt3L10n.MktCalendarIcons = {
   Goldfish: "金魚",
   Nav_Right: "右",
   Bowling_Pin: "ボウリングピン",
+  Telephone2: "電話2",
   Pirates_Ship: "海賊船",
   Painters_Palette: "パレット",
   Marker: "マーカー",
@@ -3123,41 +3165,6 @@ Mkt3L10n.appNavigationMenu = {
   Marketing_Dashboard: "パフォーマンスインサイト",
   Financial_Management: "財務管理",
   Calendar: "カレンダー"
-};
-Mkt3L10n.Toolbar = {
-  Approve: "承認",
-  Preview_Social_App: "ソーシャルアプリのプレビュー",
-  HTML: "HTML",
-  Dashboard: "ダッシュボード",
-  Edit_Draft: "下書きの編集",
-  Clone: "複製",
-  Draft_Actions: "下書きアクション",
-  Preview: "プレビュー",
-  Cleanup_CSS: "CSS のクリーン アップ",
-  Save_As_Email_Template: "メールテンプレートとして保存",
-  Email_Actions: "メールアクション",
-  Show_Edits: "編集内容の表示",
-  Discard_Draft: "下書きの破棄",
-  Approve_Draft: "下書きの承認",
-  Send_Test_Email: "サンプル メールの送信",
-  Summary: "サマリ",
-  Switch_to_Previewer: "プレビューアに切り替え",
-  Download_HTML: "HTML のダウンロード",
-  Text: "テキスト",
-  Email_Scripting_Objects: "スクリプト オブジェクト",
-  HTML_Tools: "HTML ツール",
-  Unapprove: "承認取消",
-  Edit_Settings: "設定の編集",
-  Version_HTML: "バージョン: HTML",
-  Replace_HTML: "HTML の置換",
-  Delete: "削除",
-  Embed_Code: "埋め込みコード",
-  Preview_Draft: "下書きのプレビュー",
-  Fields: "フィールド",
-  Pick_Winners: "勝者の選定",
-  Social_App_Actions: "ソーシャルアプリのアクション",
-  Copy_All_Html_To_Text: "すべての HTML をテキストにコピー",
-  New: "新規作成"
 };
 Mkt3L10n.createDynamicListForm = {
   Select_CRM_View: "CRM のアカウントビューの選択",
@@ -3779,47 +3786,40 @@ Mkt3L10n.abmAccountListAccountGrid = {
   Revenue: "収益",
   Account_Owner: "アカウント所有者"
 };
-Mkt3L10n.abmDiscoverCRMGrid = {
-  Empty: "空",
-  Select_An_Industry: "業界を選択",
-  Select_A_Country: "国を選択",
-  Account_Owner: "アカウント所有者",
-  TIP_1_OR_2_OR_3: "1 または 2 または 3...",
-  Hierarchy_Truncated_Tooltip: "このアカウントにはさらに子アカウントがあります。それらのアカウントを表示するには、「<b>階層別のグループ</b>」のチェックを外してください.",
-  Not_True: "偽",
-  D: "D",
-  No_CRM_Accounts: "CRM 内に企業がありません",
-  Industry: "業界",
-  Employees: "従業員",
-  Select_An_Account_Owner: "アカウント所有者を選択",
-  CRM_ID: "CRM ID",
-  Select_An_Indicator: "指標を選択",
-  CRM_Account: "CRM 顧客企業",
-  Potential_People: "潜在顧客",
-  ALL_Acct_Profiling_Indicators: "すべてのアカウントプロファイル指標",
-  SIC_Code: "SIC コード",
-  Multiple: "複数",
-  B: "B",
-  Named_Account_Tooltip: "このアカウントはすでに重点顧客として作成されています。",
-  Pending: "<em>保留中</em>",
-  Account_Profiling_Rank: "アカウントプロファイルランク",
-  Ranks: "ランク",
-  Group_by_Hierarchy: "階層別のグループ",
-  City: "市町村",
-  True: "真",
-  Percentile: "[百分率]",
-  You_May_Only_Add_Up_To_10_Total_Account_Profiling_Indicators_: "「いずれかのアカウントプロファイル指標」と「すべてのアカウントプロファイル指標」の両フィルターの間には、合計 10 個までのアカウントプロファイル指標のみを追加できます。指標を削除してから追加してください.",
-  ANY_Acct_Profiling_Indicators: "いずれかのアカウントプロファイル指標",
-  State_Region: "都道府県/地域",
-  C: "C",
-  Country: "国",
-  Select_Is_Target: "ターゲットを選択",
-  People: "顧客",
-  Domain: "ドメイン",
-  Is_Target: "ターゲット",
-  TIP_1_AND_2_AND_3: "1 および 2 および 3...",
-  Revenue: "収益",
-  A: "A"
+Mkt3L10n.Toolbar = {
+  Approve: "承認",
+  Preview_Social_App: "ソーシャルアプリのプレビュー",
+  HTML: "HTML",
+  Dashboard: "ダッシュボード",
+  Edit_Draft: "下書きの編集",
+  Clone: "複製",
+  Draft_Actions: "下書きアクション",
+  Preview: "プレビュー",
+  Cleanup_CSS: "CSS のクリーン アップ",
+  Save_As_Email_Template: "メールテンプレートとして保存",
+  Email_Actions: "メールアクション",
+  Show_Edits: "編集内容の表示",
+  Discard_Draft: "下書きの破棄",
+  Approve_Draft: "下書きの承認",
+  Send_Test_Email: "サンプル メールの送信",
+  Summary: "サマリ",
+  Switch_to_Previewer: "プレビューアに切り替え",
+  Download_HTML: "HTML のダウンロード",
+  Text: "テキスト",
+  Email_Scripting_Objects: "スクリプト オブジェクト",
+  HTML_Tools: "HTML ツール",
+  Unapprove: "承認取消",
+  Edit_Settings: "設定の編集",
+  Version_HTML: "バージョン: HTML",
+  Replace_HTML: "HTML の置換",
+  Delete: "削除",
+  Embed_Code: "埋め込みコード",
+  Preview_Draft: "下書きのプレビュー",
+  Fields: "フィールド",
+  Pick_Winners: "勝者の選定",
+  Social_App_Actions: "ソーシャルアプリのアクション",
+  Copy_All_Html_To_Text: "すべての HTML をテキストにコピー",
+  New: "新規作成"
 };
 Mkt3L10n.customFlowActions = {
   Service_Name: "サービス名",
@@ -4440,29 +4440,6 @@ Mkt3L10n.smartCampaignAssetForm = {
   Executable: "実行可能",
   New_Smart_Campaign: "新規スマート キャンペーン",
   AccountCampaign: "アカウントキャンペーン"
-};
-Mkt3L10n.smartListReportSubscriptionGrid = {
-  Recipients: "受信者",
-  Send_this_report_now_sends_to_all_recipients: "(すべての受信者に) 今すぐこのレポートを送信",
-  Active: "アクティブ",
-  Send: "送信",
-  no_of_items: "{0} 項目",
-  Subscriptions: "配信登録",
-  Frequency: "頻度",
-  View: "表示",
-  Format: "フォーマット",
-  Report_Columns: "非表示の列",
-  Created_Date: "作成日",
-  Sending_report_email: "レポート メールを送信しています...",
-  None: "なし",
-  Please_wait: "お待ちください...",
-  No_recipients_found_for_report: "<b>{0}</b> のレポートには受信者が見つかりませんでした",
-  Export_Title: "配信登録のエクスポート",
-  Last_Run: "最後の実行",
-  Search_by_name: "名前で検索",
-  Check_this_box_to_enable_the_subscription: "このボックスをチェックして配信登録を有効にする",
-  Default: "デフォルト",
-  Report_Name: ""
 };
 Mkt3L10n.mobilePushNotificationSummaryPanel = {
   Total_Codes_Uploaded_With_Available: "{0}アップロード済み ({1} 使用済み、{2} 利用可能)",
@@ -5180,6 +5157,29 @@ Mkt3L10n.modelMobilePushNotification = {
   Draft: "下書き",
   Approved_with_draft: "承認待ち下書きあり",
   Approved: "承認済み"
+};
+Mkt3L10n.smartListReportSubscriptionGrid = {
+  Recipients: "受信者",
+  Send_this_report_now_sends_to_all_recipients: "(すべての受信者に) 今すぐこのレポートを送信",
+  Active: "アクティブ",
+  Send: "送信",
+  no_of_items: "{0} 項目",
+  Subscriptions: "配信登録",
+  Frequency: "頻度",
+  View: "表示",
+  Format: "フォーマット",
+  Report_Columns: "非表示の列",
+  Created_Date: "作成日",
+  Sending_report_email: "レポート メールを送信しています...",
+  None: "なし",
+  Please_wait: "お待ちください...",
+  No_recipients_found_for_report: "<b>{0}</b> のレポートには受信者が見つかりませんでした",
+  Export_Title: "配信登録のエクスポート",
+  Last_Run: "最後の実行",
+  Search_by_name: "名前で検索",
+  Check_this_box_to_enable_the_subscription: "このボックスをチェックして配信登録を有効にする",
+  Default: "デフォルト",
+  Report_Name: ""
 };
 Mkt3L10n.TestGroupToolbar = {
   Approve_Failed: "承認失敗",
@@ -6011,8 +6011,8 @@ Mkt3L10n.FormTheme = {
   Shadow: "シャドウ",
   Checked: "チェック済み",
   View_Theme_CSS: "テーマ CSS の表示",
-  Sample_Form: "サンプルフォーム:",
   Selected: "選択済み",
+  Sample_Form: "サンプルフォーム:",
   Edit_Custom_CSS: "カスタム CSS の編集",
   Checkbox: "チェック<br>ボックス:",
   Text_Box: "テキスト<br>ボックス:",
@@ -6715,14 +6715,6 @@ Mkt3L10n.TagSelection = {
   Select_: "フィルター基準...",
   Filter_By_Tag_Value: "タグ値でフィルター..."
 };
-Mkt3L10n.ImageInfo = {
-  Type: "タイプ",
-  Size: "サイズ",
-  Name: "名前",
-  Width: "幅",
-  Updated: "更新済み",
-  Height: "高さ"
-};
 Mkt3L10n.controllerVespaConfigurePushAccessForm = {
   Invalid_Certificate: "証明書が無効です。開発者にお問い合わせください",
   Could_Not_Connect_To_Apple: "Apple サーバーに接続できませんでした。もう一度お試しください。問題が解決しない場合は、Marketo サポートにお問い合わせ下さい",
@@ -6792,6 +6784,14 @@ Mkt3L10n.abmOpportunityGrid = {
   Expected_Close_Date: "商談完了予定日",
   Stage: "ステージ",
   Contact: "取引先責任者"
+};
+Mkt3L10n.ImageInfo = {
+  Type: "タイプ",
+  Size: "サイズ",
+  Name: "名前",
+  Width: "幅",
+  Updated: "更新済み",
+  Height: "高さ"
 };
 Mkt3L10n.socialAppParticipants = {
   Menu_Item_Disqualified: "不適格 ({0})",
@@ -7210,23 +7210,6 @@ Mkt3L10n.ReportSettingsForm = {
   To: "終了",
   OK: "OK"
 };
-Mkt3L10n.mktocustomactivityDashboard = {
-  New_Custom_Activity: "新規カスタムアクティビティ",
-  Custom_Activities: "Marketo カスタムアクティビティ"
-};
-Mkt3L10n.createAccountListForm = {
-  Create: "作成",
-  Description: "詳細",
-  Name: "名前",
-  Create_Account_List: "顧客リストの作成",
-  Rename_Account_List: "顧客リストの名前変更",
-  Rename: "名前変更"
-};
-Mkt3L10n.controllerAddToAccountListForm = {
-  X_Named_Accounts_Already_Belongs_to_Account_List_Y: "{0} の重点顧客はすでに顧客リスト {1} に属しているため追加できません。",
-  Maximum_Limit_Reached_N_Named_Accounts_Could_Not_Be_Added_to_X: "上限に達したため、{0} の重点顧客を {1} に追加できませんでした.",
-  Total_of_N_Named_Accounts_Could_Not_Be_Added_to_X: "合計 {0} の重点顧客を {1} に追加できませんでした."
-};
 Mkt3L10n.landingPageAssetForm = {
   Clone_Landing_Page: "ランディングページの複製",
   New_Landing_Page: "新規ランディングページ",
@@ -7281,6 +7264,23 @@ Mkt3L10n.controllerPresentation = {
 };
 Mkt3L10n.sweepstakesParticipantsContextMenu = {
   View_Lead_Details: "リード詳細の表示"
+};
+Mkt3L10n.mktocustomactivityDashboard = {
+  New_Custom_Activity: "新規カスタムアクティビティ",
+  Custom_Activities: "Marketo カスタムアクティビティ"
+};
+Mkt3L10n.createAccountListForm = {
+  Create: "作成",
+  Description: "詳細",
+  Name: "名前",
+  Create_Account_List: "顧客リストの作成",
+  Rename_Account_List: "顧客リストの名前変更",
+  Rename: "名前変更"
+};
+Mkt3L10n.controllerAddToAccountListForm = {
+  X_Named_Accounts_Already_Belongs_to_Account_List_Y: "{0} の重点顧客はすでに顧客リスト {1} に属しているため追加できません。",
+  Maximum_Limit_Reached_N_Named_Accounts_Could_Not_Be_Added_to_X: "上限に達したため、{0} の重点顧客を {1} に追加できませんでした.",
+  Total_of_N_Named_Accounts_Could_Not_Be_Added_to_X: "合計 {0} の重点顧客を {1} に追加できませんでした."
 };
 Mkt3L10n.mobilePushNotificationToolbar = {
   Preview_Draft: "下書きのプレビュー",
@@ -7601,19 +7601,6 @@ Mkt3L10n.newSmartListGoalForm = {
   Your_New_Goal_Will_Be_Preselected_In_The_Table: "ゴールがハイライトされます。スマートリストを設定してください!",
   Name: "名前"
 };
-Mkt3L10n.inAppMessageEditorBackgroundStyle = {
-  Background: "バックグラウンド",
-  Recommended: "推奨：<br/>解像度 1080 x 1920 でサイズ 5MB 未満",
-  Background_Tap_Action: "背景タップ時のアクション",
-  Px: "px",
-  Background_Properties: "背景のプロパティ",
-  Corner_Radius: "コーナー半径",
-  Color: "色",
-  Border: "境界",
-  Image: "画像",
-  Image_Label: "画像：",
-  Select_Image: "画像の選択"
-};
 Mkt3L10n.app = {
   Refresh: "更新",
   Page_Access: "このページにアクセスする権限がありません",
@@ -7666,6 +7653,19 @@ Mkt3L10n.msdErrorDetailsForm = {
   Error_Details: "エラーの詳細",
   Close: "閉じる",
   Details: "詳細"
+};
+Mkt3L10n.inAppMessageEditorBackgroundStyle = {
+  Background: "バックグラウンド",
+  Recommended: "推奨：<br/>解像度 1080 x 1920 でサイズ 5MB 未満",
+  Background_Tap_Action: "背景タップ時のアクション",
+  Px: "px",
+  Background_Properties: "背景のプロパティ",
+  Corner_Radius: "コーナー半径",
+  Color: "色",
+  Border: "境界",
+  Image: "画像",
+  Image_Label: "画像：",
+  Select_Image: "画像の選択"
 };
 Mkt3L10n.inbox = {
   Mark_As_Unread: "未読にする",
@@ -7721,13 +7721,6 @@ Mkt3L10n.socialAppEditorReferralOfferSignUpOrderAppSettings = {
   Lead_Capture_Share_Order_Note: "この並び順で、参加者は必要に応じて共有ステップをスキップできます。",
   Order_Of_Sign_Up_Flow: "サインアップ フローの順番",
   Share_Lead_Capture: "共有 > リード情報取得"
-};
-Mkt3L10n.TokenPicker = {
-  Default_Value: "デフォルト値",
-  Insert: "挿入",
-  Select_token: "トークンの選択...",
-  Insert_Token: "トークン挿入",
-  Token: "トークン"
 };
 Mkt3L10n.calendarEntryRescheduleForm = {
   Reschedul_Title: "エントリの再スケジュール",
@@ -7829,6 +7822,13 @@ Mkt3L10n.ImageForm = {
   Select_Entry_Image: "60 x 60 px のエントリ画像の選択",
   Please_select_an_image: "5MB および 1440x2560 を超過しない画像を選択してください.",
   Insert_Image: "画像の挿入"
+};
+Mkt3L10n.TokenPicker = {
+  Default_Value: "デフォルト値",
+  Insert: "挿入",
+  Select_token: "トークンの選択...",
+  Insert_Token: "トークン挿入",
+  Token: "トークン"
 };
 Mkt3L10n.socialAppDashboardAudience = {
   Influencers_Trend: "インフルエンサートレンド",
