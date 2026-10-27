@@ -1,45 +1,3 @@
-Mkt3L10n.abmDiscoverCRMGrid = {
-  Empty: "空",
-  Select_An_Industry: "業界を選択",
-  Select_A_Country: "国を選択",
-  Account_Owner: "アカウント所有者",
-  TIP_1_OR_2_OR_3: "1 または 2 または 3...",
-  Hierarchy_Truncated_Tooltip: "このアカウントにはさらに子アカウントがあります。それらのアカウントを表示するには、「<b>階層別のグループ</b>」のチェックを外してください.",
-  Not_True: "偽",
-  D: "D",
-  No_CRM_Accounts: "CRM 内に企業がありません",
-  Industry: "業界",
-  Employees: "従業員",
-  Select_An_Account_Owner: "アカウント所有者を選択",
-  CRM_ID: "CRM ID",
-  Select_An_Indicator: "指標を選択",
-  CRM_Account: "CRM 顧客企業",
-  Potential_People: "潜在顧客",
-  ALL_Acct_Profiling_Indicators: "すべてのアカウントプロファイル指標",
-  SIC_Code: "SIC コード",
-  Multiple: "複数",
-  B: "B",
-  Named_Account_Tooltip: "このアカウントはすでに重点顧客として作成されています。",
-  Pending: "<em>保留中</em>",
-  Account_Profiling_Rank: "アカウントプロファイルランク",
-  Ranks: "ランク",
-  Group_by_Hierarchy: "階層別のグループ",
-  City: "市町村",
-  True: "真",
-  Percentile: "[百分率]",
-  You_May_Only_Add_Up_To_10_Total_Account_Profiling_Indicators_: "「いずれかのアカウントプロファイル指標」と「すべてのアカウントプロファイル指標」の両フィルターの間には、合計 10 個までのアカウントプロファイル指標のみを追加できます。指標を削除してから追加してください.",
-  ANY_Acct_Profiling_Indicators: "いずれかのアカウントプロファイル指標",
-  State_Region: "都道府県/地域",
-  C: "C",
-  Country: "国",
-  Select_Is_Target: "ターゲットを選択",
-  People: "顧客",
-  Domain: "ドメイン",
-  Is_Target: "ターゲット",
-  TIP_1_AND_2_AND_3: "1 および 2 および 3...",
-  Revenue: "収益",
-  A: "A"
-};
 Mkt3L10n.FiscalCalendarForm = {
   October: "10 月",
   April: "4 月",
@@ -217,8 +175,8 @@ Mkt3L10n.formSettings = {
   startsWith: "次で始まる",
   Social_Form_Fill: "ソーシャルフォームの入力",
   Thai: "タイ語",
-  any: "いずれかに該当",
   Chinese_Simplified: "中国語 (簡体)",
+  any: "いずれかに該当",
   notIn: "次の中に含まれない",
   Edit_Form_Settings: "フォーム設定の編集",
   Show_Reset_Button: "リセット ボタンの表示",
@@ -321,9 +279,9 @@ Mkt3L10n.inAppControlPanel = {
   End: "終了",
   New_In_App_Message: "新規アプリ内メッセージ",
   Status_Paused: "一時停止",
+  Status_Scheduled: "予定されています",
   There_Are_Errors_With_Tiles: "いくつかのタイルにエラーがあります。これらはハイライトで示されています",
   Pause_Program: "プログラムの一時停止",
-  Status_Scheduled: "予定されています",
   Status: "ステータス",
   Status_Completed: "完了済み",
   Once_Per_Session_: "セッションあたり 1 回:",
@@ -431,8 +389,8 @@ Mkt3L10n.formLocale = {
   th: "タイ語",
   ja_JP: "日本",
   fr: "フランス語",
-  zh_MO: "マカオ",
   ms_BN: "ブルネイ",
+  zh_MO: "マカオ",
   en_AU: "オーストラリア",
   es_MX: "メキシコ",
   hi_IN: "インド",
@@ -970,9 +928,9 @@ Mkt3L10n.socialAppParticipantsGrid = {
   Partial_Fulfillment: "ゴール",
   Referred_Visits: "参照による訪問",
   Postal: "郵便番号",
+  In_Progress: "サイン アップ済み",
   Triggered_Credits: "トリガー起動クレジット",
   User: "ソーシャルプロファイル名",
-  In_Progress: "サイン アップ済み",
   Awaiting_Coupon: "ゴール (保留中)",
   Sign_Ups: "サインアップ",
   Earned_Offers: "獲得オファー",
@@ -1356,8 +1314,8 @@ Mkt3L10n.abmImportAccountCanvas = {
   Ignored_Field_Summary: "<b>{0}</b> フィールドが無視されています",
   annualRevenue: "収益",
   Import_More: "さらにインポート",
-  state: "状態",
   city: "市町村",
+  state: "状態",
   Modes: "モード",
   Importing: "インポート",
   Check_If_You_Have_The_Right: "適切な許可があり、ネットワークに接続していることを確認してください。</br>それでもインポートできない場合は Marketo のサポートにお問い合わせください。",
@@ -1403,8 +1361,8 @@ Mkt3L10n.CalendarEntryTypesPanel = {
 Mkt3L10n.mobilePushNotificationEditor = {
   Enabled: "有効化済み",
   Ios: "iOS",
-  Android: "Android",
   Platforms: "プラットフォーム",
+  Android: "Android",
   Error_Support_Message_Contact: "フリーダイヤル（北米地域）：+1.877.270.MKTO (6586)<br>サポート直通（北米地域）：+1.650.376.2302<br>support@marketo.com",
   Error_App_Not_Configured: "アプリが構成されていません。",
   Disabled: "無効化済み",
@@ -1548,8 +1506,8 @@ Mkt3L10n.mktocustomobject = {
   Error_Field_Exist: "この名前のフィールドはすでに存在します。別の名前を選択してください。",
   Need_Link_Field_Standard_Object: "承認用に標準オブジェクト（リード、企業）に紐付いたリンクフィールドが必要です。",
   Cannot_Get_Limit: "オブジェクトとフィールド制限を検索できません",
-  Discard_Draft: "下書きの破棄",
   Cannot_Delete: "削除できません",
+  Discard_Draft: "下書きの破棄",
   Are_you_sure_you_want_to_delete_strong: "ご確認ください。これを実行してもよろしいですか？<br><br><b>オブジェクト名: {0}</b><br><br>このオブジェクトを削除すると、このデータは過去に一切存在していなかったものとして扱われます。<br><br>これを理解したうえで処理を実行する場合は、以下のボックスに<b>承諾済み</b>と入力し確認を完了させてください。<br><br><div class='mktMessageIndent mktRequired'><b>確認:</b><span id='mktTypeTextWrap'></span><br><span id='mktAgreeCbWrap'></span></div>",
   Error_Link_Limit_Exceeds: "リンクフィールドの制限を超えています.",
   Delete_Object: "オブジェクトの削除",
@@ -2483,9 +2441,9 @@ Mkt3L10n.emailBlastControlPanel = {
   Approve: "承認",
   Declare_Winner: "勝者の発表",
   Approval: "承認",
-  Waiting_To_Run: "実行待機中です...",
   Finished: "終了",
   View_Results: "結果の表示",
+  Waiting_To_Run: "実行待機中です...",
   Cannot_Unapprove_Program: "プログラムの承認取消はできません",
   Edit_AB_Test: "A/B テストの編集",
   Removing_Test_Will_Erase_Test_Info: "テストを削除すると、すべてのテスト情報が削除されます",
@@ -2493,6 +2451,21 @@ Mkt3L10n.emailBlastControlPanel = {
   Choose_Your_Email: "メールを選択します",
   Approved: "承認済み",
   Head_Start_Details_Recipient_Time_Zone_Note: ""
+};
+Mkt3L10n.linkedInFieldMapping = {
+  Select_LinkedIn_Field: "LinkedIn フィールドの選択",
+  marketo_field: "Marketo フィールド",
+  helpText: "<b>LinkedIn リード生成フォームのすべてのフィールドを Marketo のフィールドにマップしてください。</b></br><b> * - LinkedIn リード生成フォームのカスタム質問を示します。</b></br><b> ** - LinkedIn リード生成フォームの隠しフィールドを示します。</b>",
+  Select_Marketo_Field: "Marketo フィールドの選択",
+  Remove: "削除",
+  Add: "追加",
+  errorMsg: "すべてのフィールドが有効なデータを含む必要があります。修正してから送信してください。",
+  linkedIn_field: "LinkedIn フィールド"
+};
+Mkt3L10n.formProgressiveProfiling = {
+  Blank_Fields: "空のフィールド",
+  Always_Show: "常に表示",
+  Enabled: "有効化済み"
 };
 Mkt3L10n.mktocustomactivity = {
   Are_you_sure_you_want_to_delete_strong: "ご確認ください。これを実行してもよろしいですか？<br><br><b>アクティビティ名：{0}</b><br><br>このアクティビティタイプを削除すると、このデータは過去に一切存在していなかったものとして扱われます。<br><br>これを理解したうえで処理を実行する場合は、以下のボックスに<b>承諾済み</b>と入力し確認を完了させてください。<br><br><div class='mktMessageIndent mktRequired'><b>確認：</b><span id='mktTypeTextWrap'></span><br><span id='mktAgreeCbWrap'></span></div>",
@@ -2967,9 +2940,9 @@ Mkt3L10n.MktCalendarIcons = {
   Sign_Stop: "停止",
   Masks: "仮面",
   Cloud_Dark: "暗黒雲",
+  Rocket: "ロケット",
   Emoticon_Smile: "顔文字：笑顔",
   Diamond: "ダイヤモンド",
-  Rocket: "ロケット",
   Sword: "剣",
   Navigate_Plus: "プラス",
   Briefcase2: "書類かばん2",
@@ -3032,8 +3005,8 @@ Mkt3L10n.MktCalendarIcons = {
   Note: "注意",
   Medal: "メダル",
   Media_Play: "メディアプレーヤー",
-  Shopping_Cart_Empty: "買い物カート（空）",
   Cashier: "レジ",
+  Shopping_Cart_Empty: "買い物カート（空）",
   Presentation_Chart: "プレゼンチャート"
 };
 Mkt3L10n.controllerInAppMessageEditor = {
@@ -3326,21 +3299,6 @@ Mkt3L10n.analyticsHome = {
   Landing_Page_Performance_Tile: "ランディングページの効果",
   Success_Path_Analyzer_Tile: "成功パス分析",
   Email_Insights_Tile: "メールインサイト"
-};
-Mkt3L10n.linkedInFieldMapping = {
-  Select_LinkedIn_Field: "LinkedIn フィールドの選択",
-  marketo_field: "Marketo フィールド",
-  helpText: "<b>LinkedIn リード生成フォームのすべてのフィールドを Marketo のフィールドにマップしてください。</b></br><b> * - LinkedIn リード生成フォームのカスタム質問を示します。</b></br><b> ** - LinkedIn リード生成フォームの隠しフィールドを示します。</b>",
-  Select_Marketo_Field: "Marketo フィールドの選択",
-  Remove: "削除",
-  Add: "追加",
-  errorMsg: "すべてのフィールドが有効なデータを含む必要があります。修正してから送信してください。",
-  linkedIn_field: "LinkedIn フィールド"
-};
-Mkt3L10n.formProgressiveProfiling = {
-  Blank_Fields: "空のフィールド",
-  Always_Show: "常に表示",
-  Enabled: "有効化済み"
 };
 Mkt3L10n.controllerSocialAppEditor = {
   You_Must_Select_Share_Url: "アプリ設定 &rarr; 詳細オプションを選択して共有 URL を選択してください",
@@ -3803,10 +3761,10 @@ Mkt3L10n.Toolbar = {
   Approve_Draft: "下書きの承認",
   Send_Test_Email: "サンプル メールの送信",
   Summary: "サマリ",
-  Switch_to_Previewer: "プレビューアに切り替え",
   Download_HTML: "HTML のダウンロード",
   Text: "テキスト",
   Email_Scripting_Objects: "スクリプト オブジェクト",
+  Switch_to_Previewer: "プレビューアに切り替え",
   HTML_Tools: "HTML ツール",
   Unapprove: "承認取消",
   Edit_Settings: "設定の編集",
@@ -3820,6 +3778,48 @@ Mkt3L10n.Toolbar = {
   Social_App_Actions: "ソーシャルアプリのアクション",
   Copy_All_Html_To_Text: "すべての HTML をテキストにコピー",
   New: "新規作成"
+};
+Mkt3L10n.abmDiscoverCRMGrid = {
+  Empty: "空",
+  Select_An_Industry: "業界を選択",
+  Select_A_Country: "国を選択",
+  Account_Owner: "アカウント所有者",
+  TIP_1_OR_2_OR_3: "1 または 2 または 3...",
+  Hierarchy_Truncated_Tooltip: "このアカウントにはさらに子アカウントがあります。それらのアカウントを表示するには、「<b>階層別のグループ</b>」のチェックを外してください.",
+  Not_True: "偽",
+  D: "D",
+  No_CRM_Accounts: "CRM 内に企業がありません",
+  Industry: "業界",
+  Employees: "従業員",
+  Select_An_Account_Owner: "アカウント所有者を選択",
+  CRM_ID: "CRM ID",
+  Select_An_Indicator: "指標を選択",
+  CRM_Account: "CRM 顧客企業",
+  Potential_People: "潜在顧客",
+  ALL_Acct_Profiling_Indicators: "すべてのアカウントプロファイル指標",
+  SIC_Code: "SIC コード",
+  Multiple: "複数",
+  B: "B",
+  Named_Account_Tooltip: "このアカウントはすでに重点顧客として作成されています。",
+  Pending: "<em>保留中</em>",
+  Account_Profiling_Rank: "アカウントプロファイルランク",
+  Ranks: "ランク",
+  Group_by_Hierarchy: "階層別のグループ",
+  City: "市町村",
+  True: "真",
+  Percentile: "[百分率]",
+  You_May_Only_Add_Up_To_10_Total_Account_Profiling_Indicators_: "「いずれかのアカウントプロファイル指標」と「すべてのアカウントプロファイル指標」の両フィルターの間には、合計 10 個までのアカウントプロファイル指標のみを追加できます。指標を削除してから追加してください.",
+  ANY_Acct_Profiling_Indicators: "いずれかのアカウントプロファイル指標",
+  State_Region: "都道府県/地域",
+  C: "C",
+  Country: "国",
+  Select_Is_Target: "ターゲットを選択",
+  People: "顧客",
+  Domain: "ドメイン",
+  Is_Target: "ターゲット",
+  TIP_1_AND_2_AND_3: "1 および 2 および 3...",
+  Revenue: "収益",
+  A: "A"
 };
 Mkt3L10n.customFlowActions = {
   Service_Name: "サービス名",
@@ -3981,9 +3981,9 @@ Mkt3L10n.formFieldSelection = {
   Slider: "スライダ",
   Hint_Text: "ヒント テキスト:",
   Error_Message: "承認メッセージ",
-  Select_Default: "選択...",
   Behavior: "動作",
   Double: "二重",
+  Select_Default: "選択...",
   Url: "URL",
   Field_Type: "フィールドのタイプ",
   Append: "添付:",
@@ -4662,6 +4662,22 @@ Mkt3L10n.mercuryAdmin = {
   Allow_users_Sky_subtext: "有効化されたロールは Marketo Sky をデフォルト体験にすることができる",
   Welcome_to_beta: "Marketo Sky ベータ版へようこそ！"
 };
+Mkt3L10n.inAppMessageEditorImageStyle = {
+  Select_Image: "画像の選択",
+  Fit_Image: "画像の調節",
+  Px: "px",
+  Border: "境界",
+  Image_Properties: "画像のプロパティ",
+  Image_Label: "画像：",
+  Image_Tap_Action: "画像タップ時のアクション",
+  Corner_Radius: "コーナー半径",
+  Width: "幅",
+  Image: "画像",
+  Margins: "余白",
+  Recommended: "推奨：<br/>解像度 1080 x 1080 でサイズ 5MB 未満",
+  Height: "高さ",
+  Both: "両方"
+};
 Mkt3L10n.testGroupSummaryPanel = {
   Send_a_Reminder: "リマインダの送信",
   Winning_Criteria: "獲得条件",
@@ -4915,9 +4931,9 @@ Mkt3L10n.adminSalesUserInviteWizard = {
   Step_2_Licenses: "ステップ2: ライセンス",
   Please_select_user_or_administrator_role: "ユーザーまたは管理者のロールを選択してください",
   UserId: "ユーザー ID",
+  Invitation: "招待状",
   Please_select_license: "ライセンスを選択してください",
   Account_Insight: "Account Insight",
-  Invitation: "招待状",
   Total: "合計",
   Select_CRM_Users: "CRM ユーザーを選択...",
   Roles: "ロール:",
@@ -5176,8 +5192,8 @@ Mkt3L10n.smartListReportSubscriptionGrid = {
   No_recipients_found_for_report: "<b>{0}</b> のレポートには受信者が見つかりませんでした",
   Export_Title: "配信登録のエクスポート",
   Last_Run: "最後の実行",
-  Search_by_name: "名前で検索",
   Check_this_box_to_enable_the_subscription: "このボックスをチェックして配信登録を有効にする",
+  Search_by_name: "名前で検索",
   Default: "デフォルト",
   Report_Name: ""
 };
@@ -5938,22 +5954,6 @@ Mkt3L10n.adminNewSubscriptionFormV2 = {
   Customer_Prefix_Cannot_Have_Uppercase: "顧客プレフィックスに大文字は使用できません",
   Last_Name: "ラストネーム"
 };
-Mkt3L10n.inAppMessageEditorImageStyle = {
-  Select_Image: "画像の選択",
-  Fit_Image: "画像の調節",
-  Px: "px",
-  Border: "境界",
-  Image_Properties: "画像のプロパティ",
-  Image_Label: "画像：",
-  Image_Tap_Action: "画像タップ時のアクション",
-  Corner_Radius: "コーナー半径",
-  Width: "幅",
-  Image: "画像",
-  Margins: "余白",
-  Recommended: "推奨：<br/>解像度 1080 x 1080 でサイズ 5MB 未満",
-  Height: "高さ",
-  Both: "両方"
-};
 Mkt3L10n.controllerVespaVerifyPushForm = {
   Not_Found: "見つかりません",
   Verification_Complete: "確認完了",
@@ -6011,8 +6011,8 @@ Mkt3L10n.FormTheme = {
   Shadow: "シャドウ",
   Checked: "チェック済み",
   View_Theme_CSS: "テーマ CSS の表示",
-  Selected: "選択済み",
   Sample_Form: "サンプルフォーム:",
+  Selected: "選択済み",
   Edit_Custom_CSS: "カスタム CSS の編集",
   Checkbox: "チェック<br>ボックス:",
   Text_Box: "テキスト<br>ボックス:",
@@ -6507,8 +6507,8 @@ Mkt3L10n.modelNotificationMessageComponent = {
   Referral_Offer: "紹介オファー",
   Map: "マップ",
   Sweepstakes: "懸賞",
-  Custom_Url: "カスタム URL",
-  Landing_Page: "ランディングページ"
+  Landing_Page: "ランディングページ",
+  Custom_Url: "カスタム URL"
 };
 Mkt3L10n.ScriptingObject = {
   selected_row: "{0} 選択されたフィールド{1}",
@@ -6798,8 +6798,8 @@ Mkt3L10n.socialAppParticipants = {
   Menu_Item_All: "すべて",
   Fulfillment_Goal: "達成目標",
   Menu_Item_Fulfilled: "ゴール ({0})",
-  Filter_By: "フィルター条件",
   Promo_Code: "プロモ コード",
+  Filter_By: "フィルター条件",
   Menu_Item_In_Progress: "サイン アップ済み ({0})",
   Fulfillment_Goal_Type_Trigger: "{0} スマートリストトリガー",
   After_Page_of: "/{0}",
@@ -7868,9 +7868,6 @@ Mkt3L10n.formIsAppendForm = {
   Disable: "無効化",
   Cancel: "キャンセル"
 };
-Mkt3L10n.inAppMessageEditorImageOnlyLayout = {
-  No_Image_Selected: "画像が選択されていません"
-};
 Mkt3L10n.socialAppDashboard = {
   Visits_number_sessions_Campaign: "<div style=\\\"font-weight: bold\\\">訪問者数:</div><p>一定期間中にサイトにユーザーがアクセスした回数 (訪問者ごとに開始される一意のセッション)。 いったんサイトを離れ 30 分以内に再度訪問したユーザーは、最初のアクセスの一部とみなされます。 30 分以上の時間差でサイトを訪問したり、ブラウザを閉じて再起動したユーザによるアクセスは新規セッション/アクセスになります。</p><br/><div style=\\\"font-weight: bold\\\">キャンペーン訪問者数:</div><p>サイトのすべてのキャンペーンへのアクセス者の数。 同一キャンペーンの 1 ページに配置された複数のプレースメントにアクセスした場合は、キャンペーン訪問者数は 1 とみなされます。 同一キャンペーンの複数ページに配置されたプレースメントにアクセスした場合もまた、キャンペーン訪問者数は 1 とみなされます。</p><br/><div style=\\\"font-weight: bold\\\">インタラクション数:</div><p>ユーザーが行ったソーシャルアクションの回数 (投票、評価、共有、コメントの投稿、オファーへのサインアップ、動画の共有など)。 </p><br/><div style=\\\"font-weight: bold\\\">共有数:</div><p>ユーザーがソーシャルネットワークでメッセージを共有した回数。</p><br/><div style=\\\"font-weight: bold\\\">結果クリック数:</div><p>キャンペーンからのリンクの共有によって、ページが表示された回数。</p><br/><div style=\\\"font-weight: bold\\\">コンバージョン:</div><p>サイトに実装されているコンバージョン スクリプトの定義に基づき、ユーザーが特定のアクション (製品の購入など) を行った回数。 \\\"登録\\\" (あるいは共有リンクをたどってサイトを閲覧し、最初にインタラクションを行ったユーザー) はコンバージョン スクリプトが実装されていない場合のデフォルトのコンバージョン イベントです。</p><br/>",
   Social_Funnel: "ソーシャルファネル",
@@ -7920,6 +7917,9 @@ Mkt3L10n.smartCampaignAbortCampaignForm = {
   Abort: "中止",
   Abort_Campaign: "キャンペーンの中止",
   Are_You_Sure_You_Want_To_Abort: "{0}を中止してもよろしいですか？すべてのフロー アクションが停止されます"
+};
+Mkt3L10n.inAppMessageEditorImageOnlyLayout = {
+  No_Image_Selected: "画像が選択されていません"
 };
 Mkt3L10n.abmAccountTeamGrid = {
   Email: "メール",
@@ -8114,6 +8114,12 @@ Mkt3L10n.emailBlastHeadStartABTestConfirmForm = {
   Html_AB_Head_Start: "",
   Html_AB_Details_Suffix: ""
 };
+Mkt3L10n.listSelectListForm = {
+  Apply: "適用",
+  Select_A_List: "リストの選択",
+  List_Name: "リスト名",
+  Select_List: "リストの選択"
+};
 Mkt3L10n.runInAppProgramConfirmForm = {
   Run_Confirm_Note: "オーディエンスに新規カスタムフィールドが含まれます。オーディエンスサイズによりメッセージが表示されるまでに数分から数時間かかる場合があります。",
   Run: "実行",
@@ -8145,12 +8151,6 @@ Mkt3L10n.smsMessageSummaryPanel = {
 };
 Mkt3L10n.mktoCustomObjectSummary = {
   Custom_Objects: "カスタム オブジェクト"
-};
-Mkt3L10n.listSelectListForm = {
-  Apply: "適用",
-  Select_A_List: "リストの選択",
-  List_Name: "リスト名",
-  Select_List: "リストの選択"
 };
 Mkt3L10n.controllerMobilePushNotificationSendSampleForm = {
   The_device_added_has_push_notifications_disabled: "追加されたデバイスではプッシュ通知が無効化されています",
@@ -8238,11 +8238,6 @@ Mkt3L10n.controllermktocustomobjectVerifyPushForm = {
   Verification_Complete: "確認完了",
   Verified: "検証済み!"
 };
-Mkt3L10n.abmColumnPicker = {
-  Yes: "はい",
-  Multiple: "複数",
-  You_may_only_add_up_to_10_Account_Profiling_Indicators_: "10 個までのアカウントプロファイル指標のみを列として追加できます。指標を削除してから新しい指標を追加してください."
-};
 Mkt3L10n.templateContextMenu = {
   Send_Sample: "サンプルの送信",
   Save_to_Design_Studio: "デザインスタジオに複製",
@@ -8253,6 +8248,11 @@ Mkt3L10n.controllerSmsMessageEditor = {
   Approving_SMS_Message: "SMS メッセージの承認中",
   Please_Wait: "お待ちください...",
   Reply_Stop_To_Cancel: "停止を応答してキャンセルします。"
+};
+Mkt3L10n.abmColumnPicker = {
+  Yes: "はい",
+  Multiple: "複数",
+  You_may_only_add_up_to_10_Account_Profiling_Indicators_: "10 個までのアカウントプロファイル指標のみを列として追加できます。指標を削除してから新しい指標を追加してください."
 };
 Mkt3L10n.programOperationalModeForm = {
   Analytics_Behavior: "アナリティクス動作",
@@ -8518,6 +8518,11 @@ Mkt3L10n.webServicesApiRequestsModal = {
   Total: "合計",
   API_Requests: "API リクエスト"
 };
+Mkt3L10n.facebookPages = {
+  Page_Name: "ページ名",
+  ID: "ID",
+  helpText: "<b>リード広告を取得したい Facebook ページを選択してください：管理者レベルのページロールを持つ Facebook ページのみ利用可能です。<a href=\\\"https://docs.marketo.com/display/public/DOCS/Set+Up+Facebook+Lead+Ads\\\" target='_blank'>詳細</a></b>"
+};
 Mkt3L10n.abmWebActivityCard = {
   Last_30_Days: "過去 30 日間",
   Pageviews: "ページビュー",
@@ -8532,11 +8537,6 @@ Mkt3L10n.inAppMessageEditorLayoutPanel = {
 };
 Mkt3L10n.colorField = {
   Select: "選択"
-};
-Mkt3L10n.facebookPages = {
-  Page_Name: "ページ名",
-  ID: "ID",
-  helpText: "<b>リード広告を取得したい Facebook ページを選択してください：管理者レベルのページロールを持つ Facebook ページのみ利用可能です。<a href=\\\"https://docs.marketo.com/display/public/DOCS/Set+Up+Facebook+Lead+Ads\\\" target='_blank'>詳細</a></b>"
 };
 Mkt3L10n.socialAppEditorFacebookPostContentSettings = {
   Dynamic_Content: "ダイナミック コンテンツの追加 (ページの Meta タグから - <a href=\\\"{0}\\\" target=\\\"_blank\\\">詳細</a>)",
@@ -8783,10 +8783,6 @@ Mkt3L10n.presentationViewer = {
 Mkt3L10n.SocialFunnel = {
   Total: "合計"
 };
-Mkt3L10n.selectListForm = {
-  Cancel: "キャンセル",
-  Apply: "適用"
-};
 Mkt3L10n.activityFiltersForm = {
   Show_: "表示:",
   Activities_From: "アクティビティ元",
@@ -8802,6 +8798,10 @@ Mkt3L10n.assetApiErrors = {
 };
 Mkt3L10n.Palette = {
   Palette: "パレット"
+};
+Mkt3L10n.selectListForm = {
+  Cancel: "キャンセル",
+  Apply: "適用"
 };
 Mkt3L10n.emailEditorToolbar = {
   Preview_Draft: "下書きのプレビュー"
@@ -8832,18 +8832,18 @@ Mkt3L10n.abmAccountList = {
   STATIC: "スタティック",
   DYNAMIC: "ダイナミック"
 };
+Mkt3L10n.ownerAssetField = {
+  Select: "選択...",
+  Folder: "フォルダ",
+  Location: "ロケーション",
+  Program: "プログラム"
+};
 Mkt3L10n.Email2ComponentForm = {
   Error_Reserved_Class_Mktomodule: "<b>保存されません。無効な属性が指定されました。</b><br>「mktoModule」は、予約済みの HTML クラス属性です。これを削除してから、もう一度保存してみてください。"
 };
 Mkt3L10n.socialAppEditorVideoShareContentSettings = {
   Video_Details: "動画の詳細",
   Youtube_URL: "YouTube URL"
-};
-Mkt3L10n.ownerAssetField = {
-  Select: "選択...",
-  Folder: "フォルダ",
-  Location: "ロケーション",
-  Program: "プログラム"
 };
 Mkt3L10n.launchpointServiceDetails = {
   Close: "閉じる",

@@ -31,8 +31,8 @@ Mkt3L10n.testGroupEmailBlastEditor = {
   Send_Last_Variant: "Envoyer la dernière variante",
   You_Have_To_Manually_Declare_Winner: "Vous devez désigner manuellement un vainqueur pour le test Date/Heure",
   Test_Settings: "Tester paramètres",
-  Click_To_Open_Ratio: "Clic pour ouverture %",
   Variations: "Variations",
+  Click_To_Open_Ratio: "Clic pour ouverture %",
   Manual: "Manuel",
   Not_Applicable: "S/O",
   Test_Type: "Tester le type",
@@ -635,8 +635,8 @@ Mkt3L10n.nurtureTrackPanel = {
   _and_: "{0} et {1}",
   Transition_Rules_Missing_Trigger: "Les règles de transition requièrent un déclencheur",
   Saturday_abbrev: "Sam",
-  Transition_Rules_Error: "Les règles de transition contiennent une erreur",
   Thursday_abbrev: "Jeu",
+  Transition_Rules_Error: "Les règles de transition contiennent une erreur",
   month: "mois",
   Last_day_of_every_nMonth: "Le dernier jour de chaque {0}",
   Next_Cast: "Prochaine distribution : {0}",
@@ -1038,12 +1038,12 @@ Mkt3L10n.launchpointServiceIntegrationSettingsForm = {
   Login_to_cvent_eu: "Connexion à Cvent",
   None: "Aucun",
   Fail: "Échec",
+  webex_webinar_account_set: "Compte Webex Webinars configuré",
   Success: "Succès",
   Enter_credentials_cvent_site: "Saisir vos identifiants sur le site Cvent",
   Authorize_Marketo_HootSuite: "Autoriser Marketo",
   Custom: "Personnalisé",
   Calendar_integration_login: "Identifiant d'intégration au calendrier",
-  webex_webinar_account_set: "Compte Webex Webinars configuré",
   Map_Default_Fields_Tracking_Param: "nom complet, état, pays, e-mail, ville, date de naissance, prénom, nom de famille, adresse postale, fonction, numéro de téléphone, nom de l’entreprise, code postal</br><b>* - Représente la question personnalisée des publicités à formulaire Facebook.</b></br><b>** - Représente le paramètre de suivi Facebook.</b>",
   Login_to_zoom: "Connexion à Zoom",
   Participant_password: "Mot de passe participant",
@@ -1073,9 +1073,9 @@ Mkt3L10n.launchpointServiceIntegrationSettingsForm = {
   Facebook_requires_that_you_integrate_with_a_Business_Manager_if_you_want_to_use_Offline_Conversions: "Conformément aux exigences de Facebook, vous devez vous intégrer avec un Gestionnaire d’activités pour pouvoir utiliser les conversions hors ligne.",
   API_Key_Unset: "Non réglé",
   MatchingMode: "Mode de correspondance :",
+  Authorize_Marketo: "Autoriser Marketo",
   cvent_stage_account_set: "Le compte Cvent est configuré",
   Host_name: "Nom d’hôte",
-  Authorize_Marketo: "Autoriser Marketo",
   Client_key: "Code client",
   Authorize_With_Google: "Autoriser avec Google",
   Enter_credentials_cvent_stage_site: "Saisir vos identifiants sur le site Cvent",
@@ -1087,9 +1087,9 @@ Mkt3L10n.launchpointServiceIntegrationSettingsForm = {
   AutoTagging_Managed_By_Google_AdWords: "Votre balisage automatique est géré par Google AdWords",
   After_LoadMaskMsg: "Chargement de {0} partenaires événements...",
   Meeting_folder_url: "URL de dossier réunion",
-  Webex_Webinar: "Webex Webinars",
   LinkedIn_Marketing_Solutions_API_Secret: "Secret API des solutions de marketing",
   Google_MCC_Account: "Compte CM Google AdWords",
+  Webex_Webinar: "Webex Webinars",
   LinkedIn_Marketing_Solutions_API_Key: "Clé API des solutions de marketing",
   AdvMatching: "Correspondance avancée<br/><label style=\\\"font: normal 12px open-sans;margin-left:19px\\\">Utilise les champs supplémentaires y compris l’e-mail, le téléphone, le prénom,</label><br/><label style=\\\"font: normal 12px open-sans;margin-left:19px\\\">le nom, la ville, l’état, le code postal et la date de naissance</label>",
   Description_Missing: "Description manquante",
@@ -1564,8 +1564,8 @@ Mkt3L10n.SettingsForm = {
   YOU_ARE_WITHIN_THE_RECOMMENDED_RANGE: "Vous vous trouvez dans les limites recommandées",
   Operational_email_Unsubscribe_Marketing_Suspended: "E-mail opérationnel (ignorer Désabonner/Marketing interrompu)",
   IP_Address: "Adresse IP",
-  Email_Capture: "Capture de l'e-mail",
   Emails_Select: "Sélectionnez les champs CC...",
+  Email_Capture: "Capture de l'e-mail",
   Link_URL: "Lien URL",
   Arg0_Preheader_Token_Warning: "<br><b>{0}</b> peuvent être utilisés dans les pré-en-têtes uniquement avec les campagnes de déclenchement.",
   Email_CC_Enabled: "{0} champs activés par l’administrateur",
@@ -2007,8 +2007,8 @@ Mkt3L10n.Canvas = {
   Preview_Draft: "Aperçu du brouillon",
   Upload_Image_or_File: "Charger l'image ou le fichier",
   View: "Afficher",
-  Social_App: "App sociale",
   Approve: "Approuver",
+  Social_App: "App sociale",
   Marketo_Email_Designer: "Éditeur d'e-mail Marketo",
   Email_Content: "Contenu d'e-mail",
   Edit_Draft: "Modifier le brouillon",
@@ -2313,8 +2313,8 @@ Mkt3L10n.formFieldNames = {
   Website: "Site Internet",
   City: "Ville",
   MarketoSocialFacebookReferredEnrollments: "Inscriptions sur recommandation Marketo via Facebook",
-  MarketoSocialTotalReferredEnrollments: "Total des inscriptions sur recommandation Marketo via les réseaux sociaux",
   PostalCode: "Code postal",
+  MarketoSocialTotalReferredEnrollments: "Total des inscriptions sur recommandation Marketo via les réseaux sociaux",
   MarketoSocialFacebookProfileURL: "URL du profil Marketo pour Facebook",
   MarketoSocialTwitterId: "ID Marketo via Twitter",
   MktoCompanyNotes: "Notes sur la société",
@@ -2367,9 +2367,9 @@ Mkt3L10n.emailBlastControlPanel = {
   Custom_Conversion_Contains_Error: "La conversion personnalisée contient une erreur. Elle est soulignée en rouge",
   Custom_Conversion_Must_Have_Trigger: "La conversion personnalisée doit contenir au moins un déclencheur",
   Send_Report: "Envoyer le rapport",
-  Test_Is_Missing_A_From_Email_Address: "Il manque une adresse e-mail expéditeur au test",
   Email_program_is_in_progress_and_cannot_be_unapproved: "Le programme d’e-mail est en cours et ne peut pas être désapprouvé. Souhaitez-vous plutôt abandonner le programme?",
   Head_Start_Details: "<b>La Longueur d’avance</b> commence à traiter votre public et vos e-mails {0} heures à l’avance pour des livraisons plus rapides",
+  Test_Is_Missing_A_From_Email_Address: "Il manque une adresse e-mail expéditeur au test",
   Approve_Program: "Approuver le programme",
   Please_Try_Again: "Veuillez réessayer",
   Abort_Program: "Abandonner le programme",
@@ -2876,11 +2876,11 @@ Mkt3L10n.MktCalendarIcons = {
   Sun: "Dim",
   Castle: "Château",
   Magnifying_Glass: "Loupe",
-  Minibus: "Minibus",
   Eyeglasses: "Lunettes de vue",
   Goblet_Gold: "Gobelet en or",
   Windsock: "Manche à air",
   Apple: "Apple",
+  Minibus: "Minibus",
   Globe: "Monde",
   Emoticon_Tongue: "Smiley qui tire la langue",
   Radio: "Radio",
@@ -2963,11 +2963,11 @@ Mkt3L10n.MktCalendarIcons = {
   Bowling_Pins: "Quilles",
   Drink: "Boisson",
   Cake_Slice: "Part de gâteau",
+  Piggy_Bank: "Tirelire",
   Ambulance: "Ambulance",
   Wrench: "clé",
   Eye: "Œil",
   Stopwatch: "Chronomètre",
-  Piggy_Bank: "Tirelire",
   Wind_Engine: "Moulin à vent",
   Object_Cone: "Objet Cône",
   Photo_Landscape: "Photo Paysage",
@@ -4057,8 +4057,8 @@ Mkt3L10n.LandingPage = {
   Border_Color: "Border-Color",
   View_Layers: "<b>Affichage</b> : Couches",
   Font_Weight: "Font-Weight",
-  Delete: "Supprimer",
   Color_used_for_text: "Couleur du texte",
+  Delete: "Supprimer",
   List_Style: "List-Style",
   Save: "Sauvegarder",
   underline_strikethrough_none: "souligné, barré, aucun",
@@ -4163,8 +4163,8 @@ Mkt3L10n.Email = {
   Errors_Fixed_arg0: "Erreurs corrigées :<ul>{0}</ul>",
   No_CSS_changes_were_made: "Aucune modification CSS n'a été apportée",
   Unsupported_component_type: "Type de composant non pris en charge",
-  Unsupported_key_type: "Type de code non pris en charge",
   Preview_Draft: "Aperçu du brouillon",
+  Unsupported_key_type: "Type de code non pris en charge",
   Replace_HTML_not_available_emails_dynamic_content: "La modification du code n’est pas disponible pour les e-mails avec du contenu dynamique",
   CSS_errors_detected_in_your_email: "Erreurs CSS détectées dans votre e-mail",
   Script_tags_found: "Marketo n’autorise pas les balises de script ou JavaScript dans le code HTML des e-mails",
@@ -6660,8 +6660,8 @@ Mkt3L10n.assetForm = {
   Save_To: "Enregistrer dans",
   Clone_Asset: "Cloner une ressource",
   Description: "Description",
-  Open_Editor: "Ouvrir dans l'éditeur",
   New_Asset: "Nouvelle ressource",
+  Open_Editor: "Ouvrir dans l'éditeur",
   Create: "Créer",
   AAM_Clone_Note: "La liste clonée comprendra tous les membres actuels de la liste, mais ne sera pas synchronisée depuis une audience Experience Cloud.",
   Save_From: "Enregistrer depuis",
@@ -7402,16 +7402,6 @@ Mkt3L10n.mktInAppMessage = {
   Delete_In_App_Message: "Supprimer le message interne à l’application",
   Are_you_sure_you_want_to_delete: ""
 };
-Mkt3L10n.socialAppEditorButtonStyleBeforeClickSettingsGroup = {
-  Ex_Sign_Up: "Ex. S'inscrire!",
-  Change_Image: "Modifier l'image",
-  Image: "Image",
-  Select_Image: "Sélectionner l'image",
-  Ex_You_Signed_Up: "Ex. Vous venez de vous inscrire!",
-  Text: "Texte",
-  Before_Click_Style: "Style avant le clic",
-  Label: "Étiquette"
-};
 Mkt3L10n.audienceImportForm = {
   Only_New_Marketo_List: "Seules une nouvelle liste Marketo ou des listes Marketo existantes sans aucun membre peuvent être utilisées comme destinations de synchronisation.",
   Sync_From_Experience_Cloud: "Synchroniser à partir de l’audience Experience Cloud",
@@ -7692,9 +7682,9 @@ Mkt3L10n.WEditor = {
 };
 Mkt3L10n.ColumnSetDialog = {
   Delete: "Supprimer",
+  Search: "Rechercher...",
   Marketo_Columns: "Colonnes Marketo",
   Edit_Columns: "Modifier les colonnes",
-  Search: "Rechercher...",
   Create: "Créer",
   Find_: "Chercher...",
   Editing_Column_View: "Modification de la présentation de la colonne",
@@ -7743,6 +7733,16 @@ Mkt3L10n.analyticsGroupedColumnChart = {
   Success: "Succès",
   Members: "Membres",
   New_Names: "Nouveaux noms"
+};
+Mkt3L10n.socialAppEditorButtonStyleBeforeClickSettingsGroup = {
+  Ex_Sign_Up: "Ex. S'inscrire!",
+  Change_Image: "Modifier l'image",
+  Image: "Image",
+  Select_Image: "Sélectionner l'image",
+  Ex_You_Signed_Up: "Ex. Vous venez de vous inscrire!",
+  Text: "Texte",
+  Before_Click_Style: "Style avant le clic",
+  Label: "Étiquette"
 };
 Mkt3L10n.stopInAppProgramConfirmForm = {
   Stop_Confirm_Details: "Cela mettra fin à l’exécution du programme. Le programme ne peut pas être repris une fois qu’il a été arrêté.",
@@ -8079,6 +8079,9 @@ Mkt3L10n.adminPasswordForm = {
   Minimum_Characters: "Caractères {0} minimum",
   Passwords_Match: "Les mots de passe correspondent"
 };
+Mkt3L10n.snippetEditor = {
+  Preview_Draft: "Aperçu du brouillon"
+};
 Mkt3L10n.controllerSocialAppEditorSettings = {
   None: "Aucun",
   Total_Codes: "{0}({1} restant)",
@@ -8089,6 +8092,10 @@ Mkt3L10n.controllerSocialAppEditorSettings = {
 };
 Mkt3L10n.QuickSearch = {
   Quick_Find: "Recherche rapide..."
+};
+Mkt3L10n.canvasPanelHeader = {
+  Cancel: "Annuler",
+  Save: "Sauvegarder"
 };
 Mkt3L10n.adminUsersExportForm = {
   Visible_Columns_Recommended: "Colonnes visibles (recommandé)",
@@ -8179,13 +8186,6 @@ Mkt3L10n.calendarWebinarDetailsSummaryPanel = {
   Details: "Détails",
   Event_Description: "Description de l’événement",
   Event_Partner: "Partenaire événement"
-};
-Mkt3L10n.snippetEditor = {
-  Preview_Draft: "Aperçu du brouillon"
-};
-Mkt3L10n.canvasPanelHeader = {
-  Cancel: "Annuler",
-  Save: "Sauvegarder"
 };
 Mkt3L10n.SyncMonitor = {
   Auto_saved: "Enregistré automatiquement",
@@ -8659,12 +8659,12 @@ Mkt3L10n.PagingDataView = {
   Loading: "Chargement en cours…",
   More_Images: "Plus d'images..."
 };
-Mkt3L10n.socialAppEditorShareButtonContentSettings = {
-  Styling_Options: "Options de style"
-};
 Mkt3L10n.analyticsLandingPageChart = {
   Views: "Affichages",
   Conversions: "Conversions"
+};
+Mkt3L10n.socialAppEditorShareButtonContentSettings = {
+  Styling_Options: "Options de style"
 };
 Mkt3L10n.SegmentButton = {
   Segment_By: "Segment par"
@@ -8756,9 +8756,6 @@ Mkt3L10n.inAppMessageEditorApprovalForm = {
   Back_To_Editor: "Retour à l'éditeur",
   Close_Without_Approving: "Fermer sans approuver"
 };
-Mkt3L10n.snippetPreviewer = {
-  Edit_Draft: "Modifier le brouillon"
-};
 Mkt3L10n.colorPicker = {
   R: "R",
   Hex: "Hex",
@@ -8768,6 +8765,9 @@ Mkt3L10n.colorPicker = {
 };
 Mkt3L10n.lpCustomHtmlForm = {
   Custom_HTML_Editor: "Éditeur d'HTML personnalisé"
+};
+Mkt3L10n.snippetPreviewer = {
+  Edit_Draft: "Modifier le brouillon"
 };
 Mkt3L10n.socialAppEditorNetworkContentSettings = {
   Social_Network_Options: "Options du réseau social",
