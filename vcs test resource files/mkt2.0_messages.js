@@ -6,6 +6,8 @@ Mkt3L10n.AccountAnalyzerChart = {
   Trend: "Trend",
   Trend: "Trend",
   Trend: "Trend",
+  Trend: "Trend",
+  Trend: "Trend",
   Opportunity: "Opportunity",
   Interactions: "Interactions",
   Interactions: "Interactions",
